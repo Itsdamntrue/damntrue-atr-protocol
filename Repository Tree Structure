@@ -1,0 +1,20 @@
+damntrue-atr-protocol/
+├── .github/
+│   └── workflows/
+│       └── test-and-lint.yml
+├── contracts/
+│   ├── interfaces/
+│   │   └── IAgentTrustRanking.sol
+│   ├── AgentTrustRanking.sol
+│   └── FlopTokenMock.sol
+├── scripts/
+│   ├── deploy.js
+│   ├── reporter-node.js
+│   └── query-agent.js
+├── test/
+│   └── AgentTrustRanking.test.js
+├── .env.example
+├── .gitignore
+├── hardhat.config.js
+├── package.json
+└── README.md
