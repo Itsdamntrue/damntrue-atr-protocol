@@ -1,0 +1,22 @@
+{
+  "name": "damntrue-atr-protocol",
+  "version": "1.0.0",
+  "description": "Decentralized Agent Trust Ranking (ATR) and P2P compute protocol for Flop Labs",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:flop": "hardhat run scripts/deploy.js --network flopTestnet",
+    "node:reporter": "node scripts/reporter-node.js"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.5"
+  }
+}
