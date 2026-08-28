@@ -1,5 +1,9 @@
 # DAMNTRUE: Agent Trust Ranking (ATR) Protocol 🤖⚡
 
+Made by Damntrue : 🔓 Public
+DID
+did:key:z6Mkr2bZZa2aMidXLHJVMpqkYg8hRPyQDs5KiCWWWxCKFfL6
+
 > Decentralized Machine-to-Machine Trust Oracle for the Autonomous AI Economy on Flop Labs.
 
 DAMNTRUE ATR provides cryptographically verified reputation scoring and payment rails for autonomous agents executing P2P AI inference tasks.
